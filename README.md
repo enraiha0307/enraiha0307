@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
 -->
-<img src="./pictures/bg.png">
+<!--<img src="./pictures/bg.png">-->
 
 I am Akanksha and I love building Websites.<br>
 Learning different skills during quarantine.<br>
