@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+!(https://github.com/enraiha0307/enraiha0307/blob/master/pictures/bg.png)
 I am Akanksha and I love building Websites.<br>
 Learning different skills during quarantine.<br>
 I have an Artistic Side too.Go checkout on Dribble.
