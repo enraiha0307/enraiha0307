@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Akanksha and I love building Websites.<br>
+Learning different skills during quarantine.<br>
+I have an Artistic Side too.Go checkout on Dribble.
+  
+  
