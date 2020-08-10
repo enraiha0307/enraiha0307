@@ -21,10 +21,10 @@ Love building Websites.<br>
 Learning different skills during quarantine.<br>
 I have an Artistic Side too.
 Go checkout on Dribble!  
-[![dribbble-logo-36](https://user-images.githubusercontent.com/26249973/89706835-e8097380-d986-11ea-9d78-44d909a517e7.png)][2]
+![dribbble-logo-36](https://user-images.githubusercontent.com/26249973/89770371-4caa0700-db1c-11ea-8f67-0f6052d25899.png)[2]
 
-<!--!(https://dribbble.com/Akku_0307)-->
+
 
 
 [1]:!(https://www.linkedin.com/in/akanksha-gahalot-0307/)
-[2]:!(https://dribbble.com/Akku_0307)
+[2]:https://dribbble.com/Akku_0307
