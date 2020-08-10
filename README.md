@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
 -->
-<img src="./pictures/about.png">
+![Screenshot_2020-08-10 Akanksha Gahalot UI UX Designer](https://user-images.githubusercontent.com/26249973/89769698-38b1d580-db1b-11ea-88f3-f9abb1612d74.png)
+
 
 Love building Websites.<br>
 Learning different skills during quarantine.<br>
