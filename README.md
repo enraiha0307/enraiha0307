@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
 -->
-![Screenshot_2020-08-10 Akanksha Gahalot UI UX Designer](https://user-images.githubusercontent.com/26249973/89769698-38b1d580-db1b-11ea-88f3-f9abb1612d74.png)
 
 
-Love building Websites.<br>
-Learning different skills during quarantine.<br>
-I have an Artistic Side too.
-Go checkout on Dribble!  
+
+Hi! I am a Software/Web Developer.<br>
+Lets work together!<br>  
 [![dribbble-logo-36](https://user-images.githubusercontent.com/26249973/89770371-4caa0700-db1c-11ea-8f67-0f6052d25899.png)][2]
 
 
