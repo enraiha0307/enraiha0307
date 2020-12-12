@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:
 -->
 
-![DSC_0684 rich](https://user-images.githubusercontent.com/26249973/101779568-73546a80-3b1b-11eb-9718-ee2b054ae19e.jpg)
+
 
 
 
