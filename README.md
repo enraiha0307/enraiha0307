@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 
 
 
-Hi! I am a Software/Web Developer.<br>
-Lets work together!<br>  
+Hi! I am a Software / Web Developer.<br> UI
+Currently I am upgrading my UI/UX design skills.
+I woould love to work together with other developers<br>
+Check out my work at:
 [![dribbble-logo-36](https://user-images.githubusercontent.com/26249973/89770371-4caa0700-db1c-11ea-8f67-0f6052d25899.png)][2]
 
 
