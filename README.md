@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 
 My name is Akanksha Gahalot
-- I am a Software / Web Developer.<br> 
+- I am a Frontend Developer.<br> 
 - I am proficient with C/C++, Algorithms and Data Structures<br>
-- I mostly build projects with Python, HTML, CSS, Javascript, Node.js and React <br>  
+- I mostly build projects with HTML, CSS, Javascript, Node.js and React <br>  
 - I have a passion for Web Accessibility and Design Systems.<br>
 - I would love to work together with other developers , so do tell me if you have something for me :)<br>
 - Check out my work at:<br>
