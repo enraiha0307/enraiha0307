@@ -17,31 +17,29 @@ Here are some ideas to get you started:
 
 
 <!-- ![11](https://user-images.githubusercontent.com/26249973/109674672-1ce84c80-7b9d-11eb-865b-7ccafa06e87f.png) -->
-<div style="display:flex;flex-direction:column; justify-content:center;align-items:center;
-">
+<div align="center">
 <img src="./imgs/hero6000989kb.jpeg" style="width:50%;">
 
 <h1>My name is Akanksha Gahalot</h1>
 <h2> I am a Frontend Developer</h2>
 
-<ul style="display:flex;">
-<li style="list-style:none;margin:0 1rem;"><a href="" style="color:#FF58DA; font-size:1.3rem;">Portfolio</a></li>
 
-<li style="list-style:none;margin:0 1rem;"><a href="" style="color:#FF58DA; font-size:1.3rem;">Twitter</a></li>
-
-<li style="list-style:none;margin:0 1rem;"><a href="" style="color:#FF58DA; font-size:1.3rem;">LinkedIn</a></li>
-
-<li style="list-style:none;margin:0 1rem;"><a href="" style="color:#FF58DA; font-size:1.3rem;">Dribble</a></li>
-
-<li style="list-style:none;margin:0 1rem;"><a href="" style="color:#FF58DA; font-size:1.3rem;">Instagram</a></li>
-
-</ul>
+  <a href="https://enraiha0307.github.io/Akanksha-Gahalot/" style="color:#FF58DA; font-size:1.3rem;">Portfolio</a> |
+<a href="https://twitter.com/AkankshaGahalot" style="color:#FF58DA; font-size:1.3rem;">Twitter</a> |
+<a href="https://www.linkedin.com/in/akanksha-gahalot-0307/" style="color:#FF58DA; font-size:1.3rem;">LinkedIn</a> |
+<a href="https://dribbble.com/Akku_0307" style="color:#FF58DA; font-size:1.3rem;">Dribble</a> |
+<a href="https://www.instagram.com/akku_0307/" style="color:#FF58DA; font-size:1.3rem;">Instagram</a>
 
 
-<h3>I am from Saharanpur, Uttar Pradesh, India. I focus on building high performance websites with the standard UI/UX design principles, using HTML, CSS, Javascript, front-end frameworks like React, and MERN stack. I have a passion for Design Systems, Web Accessibility, and Search Engine Optimization.</h3>
-<h3>I did my Bachelors and Masters in Computer Sceince and Engineering from National Institute of Technology, Hamirpur (NITH). I am proficient with C/C++, Data Structures and Algorithms and solve problems on leetcode and hackkerrank to grow my problem solving skills. I do have hobbies, drawing cartoon characters n stuff, travelling, watching web series, movies (I'm a big Marvel Fan!)</h3>
-<h3>These days I am following courses on Frontend Masters and growing a lot of skills. I am also active on twitter, where I share my journey and stuff like resources, ideas etc. I'm always on the lookout for projects where I can contribute.<h3>
-<h3>  You can always contact me on Twitter, LinkedIn or at my Gmail, I'll reply :)</h3>
+
+
+<p>I am from Saharanpur, Uttar Pradesh, India. I focus on building high performance websites with the standard UI/UX design principles, using HTML, CSS, Javascript, front-end frameworks like React, and MERN stack. I have a passion for Design Systems, Web Accessibility, and Search Engine Optimization.</p>
+  
+<p>I did my Bachelors and Masters in Computer Sceince and Engineering from National Institute of Technology, Hamirpur (NITH). I am proficient with C/C++, Data Structures and Algorithms and solve problems on leetcode and hackkerrank to grow my problem solving skills. I do have hobbies, drawing cartoon characters n stuff, travelling, watching web series, movies (I'm a big Marvel Fan!)</p>
+  
+<p>These days I am following courses on Frontend Masters and growing a lot of skills. I am also active on twitter, where I share my journey and stuff like resources, ideas etc. I'm always on the lookout for projects where I can contribute.<p>
+  
+<p>  You can always contact me on Twitter, LinkedIn or at my Gmail, I'll reply :)</p>
 </div>
 
 <!-- My name is Akanksha Gahalot
