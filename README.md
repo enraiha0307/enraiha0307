@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 <h2> I am a Frontend Developer</h2>
 
 <ul style="display:flex;">
-<li style="list-style:none;margin:0 1rem;"><a href="" style="color:white; font-size:1.2rem;">Portfolio</a></li>
+<li style="list-style:none;margin:0 1rem;"><a href="" style="color:#FF58DA; font-size:1.3rem;">Portfolio</a></li>
 
-<li style="list-style:none;margin:0 1rem;"><a href="" style="color:white; font-size:1.2rem;">Portfolio</a></li>
+<li style="list-style:none;margin:0 1rem;"><a href="" style="color:#FF58DA; font-size:1.3rem;">Twitter</a></li>
 
-<li style="list-style:none;margin:0 1rem;"><a href="" style="color:white; font-size:1.2rem;">Portfolio</a></li>
+<li style="list-style:none;margin:0 1rem;"><a href="" style="color:#FF58DA; font-size:1.3rem;">LinkedIn</a></li>
 
-<li style="list-style:none;margin:0 1rem;"><a href="" style="color:white; font-size:1.2rem;">Portfolio</a></li>
+<li style="list-style:none;margin:0 1rem;"><a href="" style="color:#FF58DA; font-size:1.3rem;">Dribble</a></li>
 
-<li style="list-style:none;margin:0 1rem;"><a href="" style="color:white; font-size:1.2rem;">Portfolio</a></li>
+<li style="list-style:none;margin:0 1rem;"><a href="" style="color:#FF58DA; font-size:1.3rem;">Instagram</a></li>
 
 </ul>
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 - I have a passion for Web Accessibility and Design Systems.<br>
 - I would love to work together with other developers , so do tell me if you have something for me :)<br>
 - Check out my work at:<br> -->
-- My Website:https://enraiha0307.github.io/Akanksha-Gahalot/ <br>
+<!-- - My Website:https://enraiha0307.github.io/Akanksha-Gahalot/ <br>
 [![dribbble-logo-36](https://user-images.githubusercontent.com/26249973/89770371-4caa0700-db1c-11ea-8f67-0f6052d25899.png)][2]
 [![instagram-logo-36](https://user-images.githubusercontent.com/26249973/109424119-550a5680-7a08-11eb-8525-9588742b275c.png)][3] <br>
 - Connect with me at:<br>
@@ -67,4 +67,4 @@ Here are some ideas to get you started:
 
 [2]:https://dribbble.com/Akku_0307
 [3]:https://www.instagram.com/e_n_r_a_i_h_a/
-[4]:https://www.instagram.com/akku_0307/
+[4]:https://www.instagram.com/akku_0307/ -->
