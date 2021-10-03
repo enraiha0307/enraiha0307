@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 <h2> I am a Frontend Developer</h2>
 
 
-  <a href="https://enraiha0307.github.io/Akanksha-Gahalot/" style="color:#FF58DA; font-size:1.3rem;">Portfolio</a> |
+<a href="https://enraiha0307.github.io/Akanksha-Gahalot/" style="color:#FF58DA; font-size:1.3rem;">Portfolio</a> |
 <a href="https://twitter.com/AkankshaGahalot" style="color:#FF58DA; font-size:1.3rem;">Twitter</a> |
 <a href="https://www.linkedin.com/in/akanksha-gahalot-0307/" style="color:#FF58DA; font-size:1.3rem;">LinkedIn</a> |
 <a href="https://dribbble.com/Akku_0307" style="color:#FF58DA; font-size:1.3rem;">Dribble</a> |
 <a href="https://www.instagram.com/akku_0307/" style="color:#FF58DA; font-size:1.3rem;">Instagram</a>
 
 
-
+<div align="left">
 
 <p>I am from Saharanpur, Uttar Pradesh, India. I focus on building high performance websites with the standard UI/UX design principles, using HTML, CSS, Javascript, front-end frameworks like React, and MERN stack. I have a passion for Design Systems, Web Accessibility, and Search Engine Optimization.</p>
   
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <p>These days I am following courses on Frontend Masters and growing a lot of skills. I am also active on twitter, where I share my journey and stuff like resources, ideas etc. I'm always on the lookout for projects where I can contribute.<p>
   
 <p>  You can always contact me on Twitter, LinkedIn or at my Gmail, I'll reply :)</p>
+  </div>
 </div>
 
 <!-- My name is Akanksha Gahalot
