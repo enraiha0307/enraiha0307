@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-[![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=enraiha0307&show_icon=true&title_color=BCB6FF&bg_color=0D1117&text_color=F1F5F2)](https://github.com/anuraghazra/github-readme-stats)
+[![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=enraiha0307&show_icons=true&title_color=BCB6FF&bg_color=0D1117&text_color=F1F5F2&icon_color=BCB6FF)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
