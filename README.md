@@ -33,29 +33,17 @@ Here are some ideas to get you started:
 
 <div align="left">
 
-<p>I am from Saharanpur, Uttar Pradesh, India. I focus on building high performance websites with the standard UI/UX design principles, using HTML, CSS, Javascript, front-end frameworks like React, and MERN stack. I have a passion for Design Systems, Web Accessibility, and Search Engine Optimization.</p>
+<p>I am from Saharanpur, Uttar Pradesh, India. I focus on building high performance websites with the standard UI/UX design principles, using HTML, CSS, Javascript, front-end frameworks like React, and MERN stack. I code in GO, use linux, docker, helm and kubernetes on a daily basis at my job now. </p>
   
-<p>I did my Bachelors and Masters in Computer Sceince and Engineering from National Institute of Technology, Hamirpur (NITH). I am proficient with C/C++, Data Structures and Algorithms and solve problems on leetcode and hackkerrank to grow my problem solving skills. I do have hobbies, drawing cartoon characters n stuff, travelling, watching web series, movies (I'm a big Marvel Fan!)</p>
+<p>I did my Bachelors and Masters in Computer Sceince and Engineering from National Institute of Technology, Hamirpur (NITH). I am proficient with C/C++, Data Structures and Algorithms and solve problems to grow my problem solving skills. I do have hobbies, like drawing cartoon characters n stuff, travelling, watching web series, movies (I'm a big Marvel Fan!)</p>
   
-<p>These days I am following courses on Frontend Masters and growing a lot of skills. I am also active on twitter, where I share my journey and stuff like resources, ideas etc. I'm always on the lookout for projects where I can contribute.<p>
+<p>These days I am exploring the Devops world (since thats what my job has taught me). I am also active on twitter, where I share my journey and stuff like resources, ideas etc. I'm always on the lookout for projects where I can contribute.<p>
   
 <p>  You can always contact me on Twitter, LinkedIn or at my Gmail, I'll reply :)</p>
   </div>
 </div>
 
-<!-- My name is Akanksha Gahalot
-- I am a Frontend Developer.<br> 
-- I am proficient with C/C++, Algorithms and Data Structures<br>
-- I mostly build projects with HTML, CSS, Javascript, Node.js and React <br>  
-- I have a passion for Web Accessibility and Design Systems.<br>
-- I would love to work together with other developers , so do tell me if you have something for me :)<br>
-- Check out my work at:<br> -->
-<!-- - My Website:https://enraiha0307.github.io/Akanksha-Gahalot/ <br>
-[![dribbble-logo-36](https://user-images.githubusercontent.com/26249973/89770371-4caa0700-db1c-11ea-8f67-0f6052d25899.png)][2]
-[![instagram-logo-36](https://user-images.githubusercontent.com/26249973/109424119-550a5680-7a08-11eb-8525-9588742b275c.png)][3] <br>
-- Connect with me at:<br>
-- Twitter : https://twitter.com/AkankshaGahalot
-- Linkedin: https://www.linkedin.com/in/akanksha-gahalot-0307/
+[![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=enraiha0307&show_icon=true&title_color=BCB6FF&bg_color=0D1117&text_color=F1F5F2)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -64,6 +52,4 @@ Here are some ideas to get you started:
 
 
 
-[2]:https://dribbble.com/Akku_0307
-[3]:https://www.instagram.com/e_n_r_a_i_h_a/
-[4]:https://www.instagram.com/akku_0307/ -->
+
