@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/akanksha-gahalot-0307/" style="color:#FF58DA; font-size:1.3rem;">LinkedIn</a> |
 <a href="https://dribbble.com/Akku_0307" style="color:#FF58DA; font-size:1.3rem;">Dribble</a> |
 <a href="https://www.instagram.com/akku_0307/" style="color:#FF58DA; font-size:1.3rem;">Instagram</a>
+<a href="https://akku.hashnode.dev/" style="color:#FF58DA; font-size:1.3rem;">Hashnode Blog</a>
+
 
 
 <div align="left">
