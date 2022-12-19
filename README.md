@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <!-- ![11](https://user-images.githubusercontent.com/26249973/109674672-1ce84c80-7b9d-11eb-865b-7ccafa06e87f.png) -->
 <div align="center">
 <img src="./imgs/hero6000989kb.jpeg" style="width:50%;">
-
+<div align="center">
+<img src="./imgs/IMG_20210418_134731.jpg" style="width:50%;">
 <h1>My name is Akanksha Gahalot</h1>
 <h2> I am a Software Developer</h2>
 
