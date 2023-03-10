@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   
 <p>I did my Bachelor's and Master's degrees in Computer Science and Engineering from the National Institute of Technology, Hamirpur (NITH). I am proficient in C++, Data Structures, and Algorithms and solve problems to grow my problem-solving skills. My hobbies include drawing anime characters n stuff, traveling, and watching web series and movies (I'm a big Marvel Fan!)</p>
   
-<p>These days I am exploring the DevOps world (since that's what my job has taught me). I write Blogs on Hashnode, contribute to open-source, and Attend conferences, especially KubeCon+CloudNativeCon(although virtually through scholarship).   I am also active on Twitter, where I share my journey and stuff like resources, ideas, etc. I'm always on the lookout for projects where I can contribute.<p>
+<p>These days I am exploring the DevOps world (since that's what my job has taught me). I write Blogs on Hashnode, contribute to open-source, and attend conferences, especially KubeCon+CloudNativeCon(although virtually through scholarship).   I am also active on Twitter, where I share my journey and stuff like resources, ideas, blogs etc. I'm always on the lookout for projects where I can contribute.<p>
   
 <p>  You can always contact me on Twitter, LinkedIn or at my Gmail, I'll reply :)</p>
   </div>
@@ -48,6 +48,9 @@ Here are some ideas to get you started:
 
 [![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=enraiha0307&show_icons=true&title_color=BCB6FF&bg_color=0D1117&text_color=F1F5F2&icon_color=BCB6FF)](https://github.com/anuraghazra/github-readme-stats)
 
+## Hashnode Blog Post
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
 
 
 
