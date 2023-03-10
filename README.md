@@ -50,6 +50,11 @@ Here are some ideas to get you started:
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Data Types In GO:](https://akku.hashnode.dev/data-types-in-go)
+- [Memory Management in GO:](https://akku.hashnode.dev/memory-management-in-go)
+- [Kompose](https://akku.hashnode.dev/kompose)
+- [Golang: Download &amp; Setup for Linux](https://akku.hashnode.dev/golang-download-setup-for-linux)
+- [Raise A Fox: A browser-based game](https://akku.hashnode.dev/raise-a-fox-a-browser-based-game)
 <!-- HASHNODE:END -->
 
 
