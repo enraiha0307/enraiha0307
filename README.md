@@ -36,11 +36,12 @@ Here are some ideas to get you started:
 
 <div align="left">
 
-<p>I am from Saharanpur, Uttar Pradesh, India. I focus on building high-performance websites with the standard UI/UX design principles, using HTML, CSS, Javascript, and front-end frameworks like REACT and MERN stack. I code in GO and use Linux, Docker, Docker-Compose, Helm, and Kubernetes daily at my job. </p>
+<p>I am from Saharanpur, Uttar Pradesh, India. I mostly do backend-development in microservices uisng Golang, containerize it with Docker and Docker Compose, deploy on Kubernetes using Helm charts. I also do UI implementation in NOM(Networks Operation Master), NETACT products using React and Node js. at NOKIA SOLUTIONS & NETWORKS.
+I'm used to using SonarQube for code-coverage, Gerrit for Version Control, Jenkins and Blue Ocean for automation, for Robot for E2E testcases, Jira for work/effort logging and creating issues, and Confluence for documenting pre-study analysis, results etc. at my job</p>
   
-<p>I did my Bachelor's and Master's degrees in Computer Science and Engineering from the National Institute of Technology, Hamirpur (NITH). I am proficient in C++, Data Structures, and Algorithms and solve problems to grow my problem-solving skills. My hobbies include drawing anime characters n stuff, traveling, and watching web series and movies (I'm a big Marvel Fan!)</p>
+<p>As for my education, I completed my Bachelor's and Master's degrees in Computer Science and Engineering from the National Institute of Technology, Hamirpur (NITH). My hobbies include drawing, travelling, and reading/watching anything entertaining (I respect all cultures 😄) </p>
   
-<p>These days I am exploring the DevOps world (since that's what my job has taught me). I write Blogs on Hashnode, contribute to open-source, and attend conferences, especially KubeCon+CloudNativeCon(although virtually through scholarship).   I am also active on Twitter, where I share my journey and stuff like resources, ideas, blogs etc. I'm always on the lookout for projects where I can contribute.<p>
+<p>These days I am exploring the CNCF world (since we use many CNCF technologies at NOKIA including Kubernetes, Prometheus, Grafana, Kafka, MinIO, Nooba, OCP, MariaDB, ELK (Elasticsearch, Logstash, Kibana and many more). I write Blogs on Hashnode, contribute to open-source, and attend conferences, especially KubeCon+CloudNativeCon (although virtually through scholarship). I am also active on Twitter, where I share my journey and resources, ideas, blogs etc. I'm always on the lookout for projects where I can contribute.<p>
   
 <p>  You can always contact me on Twitter, LinkedIn or at my Gmail, I'll reply :)</p>
   </div>
