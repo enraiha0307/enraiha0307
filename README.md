@@ -33,8 +33,9 @@ I'm used to using SonarQube for code-coverage, Gerrit for Version Control, Jenki
 <p>  You can always contact me on Twitter, LinkedIn or at my Gmail, I'll reply :)</p>
   </div>
 </div>
+<!-- <img align=left src="https://github-readme-stats.vercel.app/api?username=enraiha0307&show_icons=true&title_color=BCB6FF&bg_color=0D1117&text_color=F1F5F2&icon_color=BCB6FF" /> -->
 
-[![Akanksha's GitHub stats](https://github-readme-stats-eg6i.vercel.app/api?username=enraiha0307&show_icons=true&title_color=BCB6FF&bg_color=0D1117&text_color=F1F5F2&icon_color=BCB6FF)](https://github.com/anuraghazra/github-readme-stats)
+[![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=enraiha0307&show_icons=true&title_color=BCB6FF&bg_color=0D1117&text_color=F1F5F2&icon_color=BCB6FF)](https://github-readme-stats-eg6i.vercel.app)
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
