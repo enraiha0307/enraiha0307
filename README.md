@@ -39,11 +39,11 @@ I'm used to using SonarQube for code-coverage, Gerrit for Version Control, Jenki
 
 ## My Latest Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Goroutines](https://akku.hashnode.dev/goroutines)
 - [Integrate Locust into your K8s Project](https://akku.hashnode.dev/integrate-locust-into-your-k8s-project)
 - [Integrate Prometheus with your K8s Project](https://akku.hashnode.dev/integrate-prometheus-with-your-k8s-project)
 - [How to run your website on Kubernetes &lpar;Minikube&rpar;?](https://akku.hashnode.dev/how-to-run-your-website-on-kubernetes-minikube)
 - [Data Types In GO:](https://akku.hashnode.dev/data-types-in-go)
-- [Memory Management in GO:](https://akku.hashnode.dev/memory-management-in-go)
 <!-- HASHNODE:END -->
 
 
