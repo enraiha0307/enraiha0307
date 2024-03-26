@@ -46,8 +46,6 @@ I'm used to using SonarQube for code-coverage, Gerrit for Version Control, Jenki
 - [Data Types In GO:](https://akku.hashnode.dev/data-types-in-go)
 <!-- HASHNODE:END -->
 
-<script type="text/javascript" src="https://www.redbubble.com/assets/external_portfolio.js"></script>
-<script id="rb-xzfcxvzx" type="text/javascript">new RBExternalPortfolio('www.redbubble.com', 'e-n-r-a-i-h-a', 2, 4).renderIframe();</script>
 
 
 
